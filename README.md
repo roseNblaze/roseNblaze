@@ -1,5 +1,7 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=F70741&width=435&lines=Hey%2C+I+am+Rose+N'+Blaze!;Full-stack+Software+Developer;4%2B+Years+of+Coding+Experience;Always+learning+new+things+%3AD" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=F70741&width=435&lines=Hey%2C+I+am+Rose+N'+Blaze!;Full-stack+Software+Developer;4%2B+Years+of+Coding+Experience;Always+learning+new+things+%3AD" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -19,12 +21,14 @@
   <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://raw.githubusercontent.com/roseNblaze/github-stats/main/stats/commits.json&query=%24.weekly_commits&label=Commits%20this%20week&labelColor=000000&color=F70741&style=for-the-badge&logo=git-commit&logoColor=white" />
   &nbsp;&nbsp;&nbsp;
 
-  <!-- YEARLY CONTRIBUTIONS -->
+  <!-- YEARLY COMMITS -->
   <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://raw.githubusercontent.com/roseNblaze/github-stats/main/stats/commits.json&query=%24.yearly_contributions&label=Commits%20this%20year&labelColor=000000&color=F70741&style=for-the-badge&cacheSeconds=120&logo=graph&logoColor=white" />
 </p>
 
 <p align="center">
-  Passionate full-stack developer who enjoys solving complex problems and turning ideas into stable, production-ready software.
+  I design and build reliable, scalable software systems with a strong focus on clean architecture, performance and long-term maintainability.  
+  From backend-heavy applications and database-driven systems to modern web interfaces and cross-platform solutions, I aim to deliver robust, production-ready software.  
+  Driven by curiosity, precision and continuous learning, I enjoy turning complex problems into elegant, efficient solutions.
 </p>
 
 <div align="center">
@@ -40,10 +44,6 @@
   <img alt="PHP" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;
   <img alt="Laravel" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />&nbsp;
   <img alt="Unix" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />&nbsp;
-  <img alt="PostgreSQL" width="35px" style="padding:10px;" 
+  <img alt="PostgreSQL" width="35px" style="padding:10px;"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
-
-
-
-
