@@ -7,15 +7,11 @@
 </p>
 
 <p align="center">
-  <!-- Profilaufrufe -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profilaufrufe&color=F70741&style=flat" />
-  
-  <!-- Gesamt-Sterne -->
-  <img src="https://custom-icon-badges.demolab.com/github/stars/YOUR_USERNAME?style=flat&logo=star&logoColor=white&label=Gesamt-Sterne&labelColor=000000&color=F70741" />
-  
-  <!-- Follower -->
-  <img src="https://custom-icon-badges.demolab.com/github/followers/YOUR_USERNAME?style=flat&logo=person-add&logoColor=white&label=Follower&labelColor=000000&color=F70741" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Views-—-F70741?style=for-the-badge&logo=eye&logoColor=white&labelColor=000000"/>
+  <img src="https://custom-icon-badges.demolab.com/github/followers/YOUR_USERNAME?style=for-the-badge&logo=person-add&logoColor=white&label=Follower&labelColor=000000&color=F70741"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/YOUR_USERNAME?style=for-the-badge&logo=star-fill&logoColor=white&label=Stars&labelColor=000000&color=F70741"/>
 </p>
+
 
 
 
