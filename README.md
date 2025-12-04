@@ -1,7 +1,6 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=F70741&width=435&lines=Hey%2C+I+am+Rose+N'+Blaze!;Full-stack+Software+Developer;4%2B+Years+of+Coding+Experience;Always+learning+new+things+%3AD" alt="Typing SVG" /></a>
 </p>
-
 <!-- ================= TECH STACK ================= -->
 
 <p align="center">
@@ -10,7 +9,7 @@
 
 <table align="center">
   <tr>
-    <!-- LANGUAGES -->
+
     <td align="center">
       <img src="https://img.shields.io/badge/LANGUAGES-black?style=for-the-badge&color=F70741"/><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="36"/><br>
@@ -18,7 +17,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="36"/>
     </td>
 
-    <!-- WEB -->
     <td align="center">
       <img src="https://img.shields.io/badge/WEB-black?style=for-the-badge&color=F70741"/><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36"/><br>
@@ -38,19 +36,10 @@
       <img src="https://img.shields.io/badge/OS-black?style=for-the-badge&color=F70741"/><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36"/>
     </td>
+
   </tr>
 </table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:F70741&height=3" />
 </p>
-
-<!-- ================= END TECH STACK ================= -->
-
-
-
-
-
-
-
-
