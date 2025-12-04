@@ -23,15 +23,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://raw.githubusercontent.com/roseNblaze/github-stats/main/stats/commits.json&query=%24.yearly_contributions&label=Commits%20this%20year&labelColor=000000&color=F70741&style=for-the-badge&cacheSeconds=120&logo=graph&logoColor=white" />
 </p>
 
-<h3 align="center">🔥 About My Passion</h3>
-
-<div align="left" style="max-width: 780px; margin: 0 auto;">
-  <p>
-    I truly love software development in all its facets – from low-level system programming to high-level application design.
-    Writing code, solving problems and continuously learning new technologies is what genuinely excites me every day.
-  </p>
-</div>
-
 <!-- TECH STACK (ICONS ONLY) -->
 <div align="center">
   <img alt="C++" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
