@@ -5,8 +5,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F70741,100:000000&height=3" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoseNBlaze&repo=REPO1&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoseNBlaze&repo=REPO2&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoseNBlaze&repo=roseNblaze&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoseNBlaze&repo=roseNblaze&theme=radical" />
 </p>
 
 
