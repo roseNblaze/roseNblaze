@@ -36,7 +36,8 @@
   <img alt="PHP" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;
   <img alt="Laravel" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />&nbsp;
   <img alt="Unix" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />&nbsp;
-  <img alt="macOS" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+  <img alt="PostgreSQL" width="35px" style="padding:10px;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
 
