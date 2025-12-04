@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <!-- PROFILAUFRUFE -->
-  <img src="https://komarev.com/ghpvc/?username=roseNblaze&style=for-the-badge&color=000000&label=Profilaufrufe"/>
+  <img src="https://custom-icon-badges.demolab.com/github/commits/roseNblaze?style=for-the-badge&logo=git-commit&logoColor=white&label=Commits&labelColor=000000&color=F70741"/>
+
 
   <!-- FOLLOWER -->
   <img src="https://custom-icon-badges.demolab.com/github/followers/roseNblaze?style=for-the-badge&logo=person-add&logoColor=white&label=Follower&labelColor=000000&color=F70741"/>
