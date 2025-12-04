@@ -1,7 +1,7 @@
-<h1 align="center">🔥 roseNblaze</h1>
-<h3 align="center">Fullstack Software Developer</h3>
+<h1 align="left">🔥 roseNblaze</h1>
+<h3 align="left">Fullstack Software Developer</h3>
 
-<p align="center">
+<p align="left">
   <i>Building scalable systems, native applications and high-performance backends.</i>
 </p>
 
@@ -32,51 +32,4 @@ All of my projects are built with a strong emphasis on **robust design, efficien
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/>
-</p>
-
----
-
-## 📊 Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roseNblaze&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseNblaze&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧩 Core Expertise
-
-- High-performance backend systems  
-- Native desktop application development  
-- Relational database design (PostgreSQL)  
-- API design & system integration  
-- Object-oriented & system-level programming  
-- Long-term maintainable architectures  
-
----
-
-## 🗂️ Featured Work
-
-> Pin your most important repositories for maximum visibility:
-
-- 🔹 **Project Name** – Short professional description  
-- 🔹 **Project Name** – Short professional description  
-- 🔹 **Project Name** – Short professional description  
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/roseNblaze  
-- Email: your.email@domain.com  
-- Portfolio (optional): yoursite.dev  
-
----
-
-<p align="center">
-  <i>Engineered with precision. Designed for longevity.</i>
 </p>
