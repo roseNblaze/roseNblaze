@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=F70741&width=435&lines=Rose+N'+Blaze;Full-stack+Software+Developer;4%2B+Years+of+Coding+Experience;Always+learning+new+things+%3AD)](https://git.io/typing-svg)
 
-### 🧰 Languages and Tools
+<p align="center">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=F70741&width=435&lines=Rose+N'+Blaze;Full-stack+Software+Developer;4%2B+Years+of+Coding+Experience;Always+learning+new+things+%3AD)](https://git.io/typing-svg)
+</p>
+
+Languages and Tools
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
