@@ -1,7 +1,5 @@
 <h1 align="left">🔥 Rose N' Blaze</h1>
 
----
-
 <h3 align="left">Fullstack Software Developer</h3>
 
 I am a fullstack software developer specializing in **native development, backend systems and database-driven applications**.  
