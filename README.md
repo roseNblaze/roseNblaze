@@ -30,7 +30,7 @@
     I truly love software development in all its facets – from low-level system programming to high-level application design.
     Writing code, solving problems and continuously learning new technologies is what genuinely excites me every day.
   </p>
-</div>>
+</div>
 
 <!-- TECH STACK (ICONS ONLY) -->
 <div align="center">
