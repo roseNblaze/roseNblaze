@@ -8,13 +8,13 @@
 
 <p align="center">
   <!-- PROFILAUFRUFE -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=F70741&label=Profilaufrufe"/>
+  <img src="https://komarev.com/ghpvc/?username=roseNblaze&style=for-the-badge&color=F70741&label=Profilaufrufe"/>
 
   <!-- FOLLOWER -->
-  <img src="https://custom-icon-badges.demolab.com/github/followers/YOUR_USERNAME?style=for-the-badge&logo=person-add&logoColor=white&label=Follower&labelColor=000000&color=F70741"/>
+  <img src="https://custom-icon-badges.demolab.com/github/followers/roseNblaze?style=for-the-badge&logo=person-add&logoColor=white&label=Follower&labelColor=000000&color=F70741"/>
 
   <!-- GESAMT-STARS -->
-  <img src="https://custom-icon-badges.demolab.com/github/stars/YOUR_USERNAME?style=for-the-badge&logo=star-fill&logoColor=white&label=Stars&labelColor=000000&color=F70741"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/roseNblaze?style=for-the-badge&logo=star-fill&logoColor=white&label=Stars&labelColor=000000&color=F70741"/>
 </p>
 
 
