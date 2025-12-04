@@ -28,7 +28,6 @@
   <img alt="C++" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
   <img alt="C#" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
   <img alt=".NET" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />&nbsp;&nbsp;
-  <img alt="Qt" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />&nbsp;&nbsp;
   <img alt="Git" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
   <img alt="SQL" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
   <img alt="HTML" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;&nbsp;
